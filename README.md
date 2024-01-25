@@ -1,6 +1,6 @@
 ### Hi there 👋 
 I’m currently learning Computer science 
-# A fun fact about me is that I love wearing hats 
+ A fun fact about me is that I love wearing hats 
 <!--
 **sebaarron/sebaarron** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
